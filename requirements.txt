@@ -1,0 +1,4 @@
+streamlit
+pathlib
+langchain
+langchain_groq
